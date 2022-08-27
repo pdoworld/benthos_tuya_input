@@ -1,0 +1,8 @@
+input:
+  tuya:
+    # required
+    accessId: 
+    # required
+    accessSecert: 
+    # (optional) default value is false
+    debug: true
