@@ -30,5 +30,5 @@ input:
 And you can run it like this:
 
 ```sh
-./benthos-plugin-example -c ./yourconfig.yaml
+./benthos_tuya_input -c ./yourconfig.yaml
 ```
