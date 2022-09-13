@@ -3,3 +3,5 @@ benthos_tuya_input
 go.sum
 vendor
 logs
+*.txt
+tuya_*.yaml
